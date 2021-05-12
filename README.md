@@ -1,6 +1,8 @@
 Kyonggi Univ.
 ~ 2019. Department of Computer Science. B.S.
+
 2020 ~. Department of Computer Science. M.S.
+
 https://islab.kyonggi.ac.kr
 
 <!---
