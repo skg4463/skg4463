@@ -4,7 +4,7 @@ Kyonggi Univ.
 
 2020 ~. Department of Computer Science. M.S.
 
-https://islab.kyonggi.ac.kr
+https://sites.google.com/view/kgu-islab
 
 <!---
 skg4463/skg4463 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
