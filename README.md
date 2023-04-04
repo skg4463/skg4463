@@ -6,7 +6,7 @@ Kyonggi Univ.
 
 2023 ~. Department of Computer Scicence. PH.D.
 
-islab.kyonggi.ac.kr
+https://islab.kyonggi.ac.kr/
 
 <!---
 skg4463/skg4463 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
