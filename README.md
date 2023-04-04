@@ -1,15 +1,11 @@
 # Kyonggi Univ.
-`
-~ 2019. Department of Computer Science. B.S.
-`
 
-`
-~ 2022. Department of Computer Science. M.S.
-`
+~ 2019. Department of Computer Science. `B.S.`
 
-`
-2023 ~. Department of Computer Scicence. Ph.D.
-`
+~ 2022. Department of Computer Science. `M.S.`
+
+2023 ~. Department of Computer Scicence. `Ph.D.`
+
 
 https://islab.kyonggi.ac.kr/
 
