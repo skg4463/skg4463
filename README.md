@@ -4,7 +4,7 @@
 
 ~ 2022. Department of Computer Science. `M.S.`
 
-2023 ~. Department of Computer Scicence. `Ph.D.`
+Current. Department of Computer Scicence. `Ph.D.`
 
 
 https://islab.kyonggi.ac.kr/
