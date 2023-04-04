@@ -1,4 +1,4 @@
-#Kyonggi Univ.
+# Kyonggi Univ.
 
 ~ 2019. Department of Computer Science. B.S.
 
