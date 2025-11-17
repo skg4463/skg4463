@@ -1,9 +1,9 @@
 # raco0n
 Ph.D. Research Project
-- flmainchain
-- flstorage
-- federated_cifar10
-- fls-client
+- flmainchain (fedlearning-chain, Layer-1)
+- flstorage (fedstoraging-chain, Layer-2)
+- federated_cifar10 (Federated Learning)
+- fls-client (Shell Simulation)
 
 <!---
 skg4463/skg4463 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
